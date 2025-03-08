@@ -17,7 +17,5 @@ Este projeto contém uma simples tela de login utilizando **HTML**, **CSS** e **
 - **JavaScript**: Funcionalidade de login, validação e limpeza dos campos.
 
 ## Como Executar
-
-1. **Clone o repositório** para sua máquina local:
-   ```bash
-   git clone https://github.com/seu-usuario/tela-login.git
+Clique no link abaixo e veja minha tela de Login <br>
+https://mylenapof.github.io/Tela-Login/
